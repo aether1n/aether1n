@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jane
+## 👋 Hi, I'm Rin
 💻 Computer science student<br />
 🔎 Currently learning Kotlin<br />
 🎯 Looking for a software engineering internship (Java/Web/Full-Stack). If you think I'd be a good fit, feel free to reach out!<br />
