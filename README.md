@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Rin
 💻 Computer science student<br />
-🔎 Currently learning Kotlin<br />
-🎯 Looking for a software engineering internship (Java/Web/Full-Stack). If you think I'd be a good fit, feel free to reach out!<br />
+🔎 Currently learning Python<br />
+📊 Intern in Controlling Data & Systems (Technical Development) at AUDI AG<br />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jane-edgina) 
