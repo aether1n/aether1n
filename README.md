@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Rin
+## 👋 Hi, I'm Jane
 💻 Computer science student<br />
 🔎 Currently learning Python<br />
 📊 Thesis Worker in Controlling Data & Systems (Technical Development) at AUDI AG<br />
